@@ -1,0 +1,24 @@
+Compiling project changes...
+--------
+- Project Filename: C:\Users\PC_01\Music\programa6\programa6.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: C:\Users\PC_01\Music\programa6\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "C:\Users\PC_01\Music\programa6\Makefile.win" all
+
+mingw32-make.exe: Nothing to be done for 'all'.
+
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: C:\Users\PC_01\Music\programa6\programa6.exe
+- Output Size: 1.83279609680176 MiB
+- Compilation Time: 0.09s
